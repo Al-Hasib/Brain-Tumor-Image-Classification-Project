@@ -1,0 +1,17 @@
+Model Name,Classification Type,Accuracy
+MobileNet+Capsule Network+LSTM,Binary,98.71%
+Transfer Learning + Graph Convolutional Network,,
+CNN + Graph attention Network,,
+Vit+CNN+Bi-Gru,,
+SwimVIT + Densenet,,
+MedVIT,,
+Quantum Convolutional Neural Network,,
+Transfer Learning + Quantum Neural Network,,
+YOLOv8,,
+,,
+Already Done (Extra),,
+MobileNet+attention+LSTM,Binary,99.53%
+VGG16+LSTM,Binary,98.01%
+MobileNet+LSTM,Binary,97.89%
+LSTM+ attention capsule+VGG16,Binary,98.24%
+MobileNet+GRU+Attention ,Binary,98.943
