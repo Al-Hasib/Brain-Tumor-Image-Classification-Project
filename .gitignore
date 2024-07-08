@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 
 data/
+experiments/runs
+experiments/Multiclass/my_awesome_food_model
+experiments/Multiclass/yolov8m-cls.pt
+experiments/Multiclass/yolov8n.pt

@@ -1,0 +1,4 @@
+datadir:
+epochs: 10
+model: 
+classification_type: multi_class
